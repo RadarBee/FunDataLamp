@@ -1,0 +1,2 @@
+language = "fsharp"
+run = "fsharpc --nologo --out:main.exe main.fs; mono main.exe"
